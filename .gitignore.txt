@@ -1,0 +1,29 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build and object files
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Configuration files
+*.config
+*.config.user
+Web.config
+Web.*.config
+
+# Secret files
+*.pfx
+*.cer
+*.snk
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
